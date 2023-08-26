@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Version: 1.0-SNAPSHOT
-Built-By: Kolar
-Implementation-Vendor-Id: cz.kolar
-Created-By: IntelliJ IDEA
-Build-Jdk: 1.8.0_181
-Main-Class: ${start-class}
-
